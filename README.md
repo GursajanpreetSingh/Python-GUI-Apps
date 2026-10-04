@@ -7,18 +7,23 @@ A collection of Python GUI applications built using Tkinter and other GUI progra
 | Application | Description | Concepts |
 |---|---|---|
 | 🍅 [Pomodoro](./Pomodoro) | A productivity timer with work sessions, short breaks, long breaks, progress tracking, and timer controls | Tkinter, GUI Programming, Event Handling, Countdown Timer, Functions, State Management |
+| 🔐 [Password Manager](./Password-Manager) | A desktop password manager with password generation, clipboard support, and local credential storage | Tkinter, Randomization, File Handling, Clipboard Operations, GUI Programming |
 
 ## 🧠 Concepts Practiced
 
 - Python GUI programming
 - Tkinter
 - Event-driven programming
-- Countdown timers
 - Functions
 - State management
-- User interaction
+- Randomization
+- Password generation
+- Clipboard operations
+- File handling
+- User input and validation
 - Message boxes
 - UI layout and widgets
+- Countdown timers
 - Mathematical calculations
 - Modular code organization
 

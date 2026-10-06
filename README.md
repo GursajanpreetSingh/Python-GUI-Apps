@@ -8,6 +8,7 @@ A collection of Python GUI applications built using Tkinter and other GUI progra
 |---|---|---|
 | 🍅 [Pomodoro](./Pomodoro) | A productivity timer with work sessions, short breaks, long breaks, progress tracking, and timer controls | Tkinter, GUI Programming, Event Handling, Countdown Timer, Functions, State Management |
 | 🔐 [Password Manager](./Password-Manager) | A desktop password manager with password generation, clipboard support, and local credential storage | Tkinter, Randomization, File Handling, Clipboard Operations, GUI Programming |
+| 🃏 [Flash Card](./Flash-Card) | A language-learning flash card application that displays French words, automatically reveals their English translations, and tracks words that still need practice | Tkinter, Pandas, Randomization, Event Handling, File Handling, GUI Programming |
 
 ## 🧠 Concepts Practiced
 
@@ -20,6 +21,8 @@ A collection of Python GUI applications built using Tkinter and other GUI progra
 - Password generation
 - Clipboard operations
 - File handling
+- CSV data handling
+- Pandas
 - User input and validation
 - Message boxes
 - UI layout and widgets
